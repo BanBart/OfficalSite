@@ -1,0 +1,4 @@
+saky_hank_official_site:
+    resource: "@SakyHankOfficialSiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
